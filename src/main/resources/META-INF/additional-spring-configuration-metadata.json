@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.hibernate.ejb.metamodel.generation",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.hibernate.ejb.metamodel.generation'"
+}]}
